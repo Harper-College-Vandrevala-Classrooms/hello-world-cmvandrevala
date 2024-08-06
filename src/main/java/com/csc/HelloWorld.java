@@ -2,6 +2,6 @@ package com.csc;
 
 class HelloWorld {
   public static void main(String[] args) {
-      System.out.println("Hello World incorrect!");
+      System.out.println("Hello World!");
   }
 }
